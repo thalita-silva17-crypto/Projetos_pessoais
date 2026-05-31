@@ -41,6 +41,6 @@ O programa solicita o peso e a altura do usuário, calcula o IMC e exibe a class
 
 ## ▶️ Como Executar
 
-Clone o repositório:
+zaClone o repositório:
 
 git clone URL_DO_REPOSITORIO
